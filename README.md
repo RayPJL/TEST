@@ -1,28 +1,21 @@
+# Writing a README
 
-Writing a README
-need to be descriptive
-List the contents of the repository
+### need to be descriptive
+### List the contents of the repository
 Clearly explains the project to others
 
-###Tile
-###Desciption of technology
-###Description of the process
+### Tile
+### Desciption of technology
+### Description of the process
 
-####How the project came about
-####The motivation
-####Limitations
-####Challenges
-####What problem it hopes to solve
-####What the intended use is
+#### How the project came about
+#### The motivation
+#### Limitations
+#### Challenges
+#### What problem it hopes to solve
+#### What the intended use is
 
 
-# Test
-## Test
-### Test
-#### Test
-##### Test
-##### Test
-###### Test
 
 **bold**
 
